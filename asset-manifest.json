@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://otaviojneto.github.io/csb-d7du2/static/js/main.68489a7f.chunk.js",
+    "main.js.map": "https://otaviojneto.github.io/csb-d7du2/static/js/main.68489a7f.chunk.js.map",
+    "runtime-main.js": "https://otaviojneto.github.io/csb-d7du2/static/js/runtime-main.8a6c6e33.js",
+    "runtime-main.js.map": "https://otaviojneto.github.io/csb-d7du2/static/js/runtime-main.8a6c6e33.js.map",
+    "static/js/2.4469041d.chunk.js": "https://otaviojneto.github.io/csb-d7du2/static/js/2.4469041d.chunk.js",
+    "static/js/2.4469041d.chunk.js.map": "https://otaviojneto.github.io/csb-d7du2/static/js/2.4469041d.chunk.js.map",
+    "index.html": "https://otaviojneto.github.io/csb-d7du2/index.html",
+    "static/js/2.4469041d.chunk.js.LICENSE.txt": "https://otaviojneto.github.io/csb-d7du2/static/js/2.4469041d.chunk.js.LICENSE.txt",
+    "static/media/bg.c2fdc015.png": "https://otaviojneto.github.io/csb-d7du2/static/media/bg.c2fdc015.png",
+    "static/media/seta.cf022ed9.svg": "https://otaviojneto.github.io/csb-d7du2/static/media/seta.cf022ed9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a6c6e33.js",
+    "static/js/2.4469041d.chunk.js",
+    "static/js/main.68489a7f.chunk.js"
+  ]
+}
